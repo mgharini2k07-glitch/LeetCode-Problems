@@ -1,4 +1,5 @@
 class Solution {
+    //best time to buy and sell stock
     public int maxProfit(int[] arr) {
         int minCp=arr[0],n=arr.length;
         int maxPro=0;
